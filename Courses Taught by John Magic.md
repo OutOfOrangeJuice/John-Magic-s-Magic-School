@@ -6,3 +6,4 @@ MHIST101 – History of Magic 101: Forms of Magic
 IMT401 – Immortality 101
 AMIP701 – Archmage Inauguration Project
 SPMG321 – Spatial Magic 321: Teleportation
+BIOL211 – Biology 211: Magical Megafauna

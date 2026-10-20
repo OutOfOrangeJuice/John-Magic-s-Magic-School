@@ -6,4 +6,5 @@ List of course ideas:
 
 Lectures:
 - [[Lecture 1 – Introduction to Combat Spells]]
-- 
+- [[Lecture 1 – An Overview of Magic in its Various Forms]]
+- [[Lecture 13 – Dragons]]
