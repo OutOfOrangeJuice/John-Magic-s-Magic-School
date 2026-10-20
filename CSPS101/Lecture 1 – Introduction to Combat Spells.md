@@ -9,7 +9,7 @@ Well, without further ado, let's get into the first lecture. You should have bee
 
 Excited? No? C'mon, this is one of the most popular courses we have. Show some enthusiasm! Every good wizard starts from somewhere.
 
-Each of the spells we'll be going over in this course were developed by myself, on a battlefield you won't have heard of. I won't bother with the history – ya'll can take MHIST if you want to learn about my personal history. I just want to first establish what the spells you will learn were originally made for. 
+Each of the spells we'll be going over in this course were developed by myself, on a battlefield you won't have heard of. I won't bother with the history – ya'll can take MHIST112 if you want to learn about my personal history. I just want to first establish what the spells you will learn were originally made for. 
 
 So, the battlefield! I was a younger wizard then. This was my first time in a proper large scale battle, and the spells I had already figured out were pretty much useless. *Magic Missile*, *Elemental Blast*, and the basic defensive spells became the cornerstone for my survival and contribution to the battle.
 
